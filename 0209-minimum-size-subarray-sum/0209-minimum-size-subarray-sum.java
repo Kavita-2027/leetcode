@@ -6,9 +6,7 @@ class Solution {
         int res = Integer.MAX_VALUE;
         int sum =0;
         
-        if(Arrays.stream(nums).sum()<target){
-            return 0;
-        }
+        
         while(high<n){
             sum = sum+nums[high];
             while(sum>=target){
@@ -19,7 +17,7 @@ class Solution {
             }
             high++;
         }
-        return res;
+        return res == Integer.MAX_VALUE ? 0: res;
 
     }
 }
