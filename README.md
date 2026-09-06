@@ -6,12 +6,14 @@
 | ------- |
 | [0001-two-sum](https://github.com/Kavita-2027/leetcode/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/Kavita-2027/leetcode/tree/master/0015-3sum) |
+| [0027-remove-element](https://github.com/Kavita-2027/leetcode/tree/master/0027-remove-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Kavita-2027/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0904-fruit-into-baskets](https://github.com/Kavita-2027/leetcode/tree/master/0904-fruit-into-baskets) |
 ## Two Pointers
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Kavita-2027/leetcode/tree/master/0015-3sum) |
+| [0027-remove-element](https://github.com/Kavita-2027/leetcode/tree/master/0027-remove-element) |
 ## Sorting
 |  |
 | ------- |
