@@ -17,6 +17,7 @@
 | [0015-3sum](https://github.com/Kavita-2027/leetcode/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/Kavita-2027/leetcode/tree/master/0027-remove-element) |
 | [0141-linked-list-cycle](https://github.com/Kavita-2027/leetcode/tree/master/0141-linked-list-cycle) |
+| [0876-middle-of-the-linked-list](https://github.com/Kavita-2027/leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Sorting
 |  |
 | ------- |
@@ -64,6 +65,7 @@
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Kavita-2027/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/Kavita-2027/leetcode/tree/master/0141-linked-list-cycle) |
+| [0876-middle-of-the-linked-list](https://github.com/Kavita-2027/leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
