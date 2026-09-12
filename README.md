@@ -9,6 +9,7 @@
 | [0027-remove-element](https://github.com/Kavita-2027/leetcode/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/Kavita-2027/leetcode/tree/master/0053-maximum-subarray) |
 | [0209-minimum-size-subarray-sum](https://github.com/Kavita-2027/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0287-find-the-duplicate-number](https://github.com/Kavita-2027/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0904-fruit-into-baskets](https://github.com/Kavita-2027/leetcode/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Kavita-2027/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 ## Two Pointers
@@ -19,6 +20,7 @@
 | [0141-linked-list-cycle](https://github.com/Kavita-2027/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Kavita-2027/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/Kavita-2027/leetcode/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/Kavita-2027/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0876-middle-of-the-linked-list](https://github.com/Kavita-2027/leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Sorting
 |  |
@@ -28,6 +30,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Kavita-2027/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0287-find-the-duplicate-number](https://github.com/Kavita-2027/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [1004-max-consecutive-ones-iii](https://github.com/Kavita-2027/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 ## Sliding Window
 |  |
@@ -90,4 +93,13 @@
 | [0141-linked-list-cycle](https://github.com/Kavita-2027/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Kavita-2027/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/Kavita-2027/leetcode/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/Kavita-2027/leetcode/tree/master/0287-find-the-duplicate-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Kavita-2027/leetcode/tree/master/0287-find-the-duplicate-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Kavita-2027/leetcode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
