@@ -20,6 +20,7 @@
 | ------- |
 | [0015-3sum](https://github.com/Kavita-2027/leetcode/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/Kavita-2027/leetcode/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Kavita-2027/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0141-linked-list-cycle](https://github.com/Kavita-2027/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Kavita-2027/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/Kavita-2027/leetcode/tree/master/0202-happy-number) |
@@ -66,6 +67,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Kavita-2027/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Kavita-2027/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0076-minimum-window-substring](https://github.com/Kavita-2027/leetcode/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/Kavita-2027/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Kavita-2027/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -109,4 +111,20 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Kavita-2027/leetcode/tree/master/0287-find-the-duplicate-number) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Kavita-2027/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Kavita-2027/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Kavita-2027/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Kavita-2027/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
