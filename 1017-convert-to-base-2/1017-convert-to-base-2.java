@@ -6,7 +6,7 @@ class Solution {
         StringBuilder binary = new StringBuilder();
         while(n!=0){
             int reminder = n%-2;
-            n = n/-2;
+            n /=-2;
             if(reminder<0){
                 reminder +=2;
                 n +=1;
