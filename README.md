@@ -81,6 +81,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/Kavita-2027/leetcode/tree/master/0009-palindrome-number) |
 | [0202-happy-number](https://github.com/Kavita-2027/leetcode/tree/master/0202-happy-number) |
+| [1017-convert-to-base-2](https://github.com/Kavita-2027/leetcode/tree/master/1017-convert-to-base-2) |
 ## Linked List
 |  |
 | ------- |
