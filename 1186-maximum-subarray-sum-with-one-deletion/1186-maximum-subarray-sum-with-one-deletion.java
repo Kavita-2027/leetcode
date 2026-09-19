@@ -3,6 +3,9 @@ class Solution {
         int nodelete = arr[0];
         int onedelete = Integer.MIN_VALUE;
         int res = arr[0];
+        if(arr.length==1){
+            return arr[0];
+        }
         for(int i =1;i<arr.length;i++){
             int prevnodelete = nodelete;
             int prevonedelete = onedelete;
