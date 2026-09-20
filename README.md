@@ -68,6 +68,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/Kavita-2027/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/Kavita-2027/leetcode/tree/master/0904-fruit-into-baskets) |
 | [1207-unique-number-of-occurrences](https://github.com/Kavita-2027/leetcode/tree/master/1207-unique-number-of-occurrences) |
+| [1796-second-largest-digit-in-a-string](https://github.com/Kavita-2027/leetcode/tree/master/1796-second-largest-digit-in-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Kavita-2027/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## String
 |  |
@@ -77,6 +78,7 @@
 | [0076-minimum-window-substring](https://github.com/Kavita-2027/leetcode/tree/master/0076-minimum-window-substring) |
 | [0242-valid-anagram](https://github.com/Kavita-2027/leetcode/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/Kavita-2027/leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [1796-second-largest-digit-in-a-string](https://github.com/Kavita-2027/leetcode/tree/master/1796-second-largest-digit-in-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Kavita-2027/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Math
 |  |
