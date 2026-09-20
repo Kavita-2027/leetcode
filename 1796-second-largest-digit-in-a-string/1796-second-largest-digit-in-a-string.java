@@ -1,19 +1,15 @@
 class Solution {
     public int secondHighest(String s) {
-        int lar = -1;
-        int seclar = -1;
-        for(int i =0;i<s.length();i++){
-            char ch = s.charAt(i);
-            if(Character.isDigit(ch)){
-                int num =ch-'0';
-                if(num>lar){
-                    seclar = lar;
-                    lar = num;
-                }else if(num<lar && num>seclar){
-                    seclar = num;
+        int count =0;
+        for(char ch ='9';ch>='0';ch--){
+            if(s.indexOf(ch)!=-1){
+                count++;
+                if(count==2){
+                    return ch-'0';
                 }
             }
+            
         }
-        return seclar;
+        return -1;
     }
 }
