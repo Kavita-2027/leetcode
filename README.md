@@ -13,6 +13,7 @@
 | [0238-product-of-array-except-self](https://github.com/Kavita-2027/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Kavita-2027/leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Kavita-2027/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0560-subarray-sum-equals-k](https://github.com/Kavita-2027/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Kavita-2027/leetcode/tree/master/0724-find-pivot-index) |
 | [0904-fruit-into-baskets](https://github.com/Kavita-2027/leetcode/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Kavita-2027/leetcode/tree/master/1004-max-consecutive-ones-iii) |
@@ -57,6 +58,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Kavita-2027/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Kavita-2027/leetcode/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/Kavita-2027/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Kavita-2027/leetcode/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/Kavita-2027/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 ## Hash Table
@@ -70,6 +72,7 @@
 | [0202-happy-number](https://github.com/Kavita-2027/leetcode/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/Kavita-2027/leetcode/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/Kavita-2027/leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0560-subarray-sum-equals-k](https://github.com/Kavita-2027/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/Kavita-2027/leetcode/tree/master/0904-fruit-into-baskets) |
 | [1207-unique-number-of-occurrences](https://github.com/Kavita-2027/leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Kavita-2027/leetcode/tree/master/1796-second-largest-digit-in-a-string) |
