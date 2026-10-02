@@ -11,6 +11,7 @@
 | [0152-maximum-product-subarray](https://github.com/Kavita-2027/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0209-minimum-size-subarray-sum](https://github.com/Kavita-2027/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Kavita-2027/leetcode/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/Kavita-2027/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Kavita-2027/leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Kavita-2027/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0560-subarray-sum-equals-k](https://github.com/Kavita-2027/leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -38,10 +39,12 @@
 | ------- |
 | [0015-3sum](https://github.com/Kavita-2027/leetcode/tree/master/0015-3sum) |
 | [0242-valid-anagram](https://github.com/Kavita-2027/leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Kavita-2027/leetcode/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Kavita-2027/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/Kavita-2027/leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Kavita-2027/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [1004-max-consecutive-ones-iii](https://github.com/Kavita-2027/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 ## Sliding Window
@@ -71,6 +74,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/Kavita-2027/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/Kavita-2027/leetcode/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/Kavita-2027/leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Kavita-2027/leetcode/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/Kavita-2027/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/Kavita-2027/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/Kavita-2027/leetcode/tree/master/0904-fruit-into-baskets) |
@@ -92,6 +96,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/Kavita-2027/leetcode/tree/master/0009-palindrome-number) |
 | [0202-happy-number](https://github.com/Kavita-2027/leetcode/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/Kavita-2027/leetcode/tree/master/0268-missing-number) |
 | [1017-convert-to-base-2](https://github.com/Kavita-2027/leetcode/tree/master/1017-convert-to-base-2) |
 ## Linked List
 |  |
@@ -125,6 +130,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Kavita-2027/leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Kavita-2027/leetcode/tree/master/0287-find-the-duplicate-number) |
 ## Pigeonhole Principle
 |  |
