@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Kavita-2027/leetcode/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/Kavita-2027/leetcode/tree/master/0015-3sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Kavita-2027/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Kavita-2027/leetcode/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/Kavita-2027/leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Kavita-2027/leetcode/tree/master/0054-spiral-matrix) |
@@ -30,6 +31,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Kavita-2027/leetcode/tree/master/0015-3sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Kavita-2027/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Kavita-2027/leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Kavita-2027/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0141-linked-list-cycle](https://github.com/Kavita-2027/leetcode/tree/master/0141-linked-list-cycle) |
