@@ -8,6 +8,7 @@
 | [0015-3sum](https://github.com/Kavita-2027/leetcode/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/Kavita-2027/leetcode/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/Kavita-2027/leetcode/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/Kavita-2027/leetcode/tree/master/0054-spiral-matrix) |
 | [0136-single-number](https://github.com/Kavita-2027/leetcode/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/Kavita-2027/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0209-minimum-size-subarray-sum](https://github.com/Kavita-2027/leetcode/tree/master/0209-minimum-size-subarray-sum) |
@@ -160,4 +161,12 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Kavita-2027/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Kavita-2027/leetcode/tree/master/0054-spiral-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Kavita-2027/leetcode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
