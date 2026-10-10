@@ -26,6 +26,7 @@
 | [0485-max-consecutive-ones](https://github.com/Kavita-2027/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Kavita-2027/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Kavita-2027/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0645-set-mismatch](https://github.com/Kavita-2027/leetcode/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/Kavita-2027/leetcode/tree/master/0724-find-pivot-index) |
 | [0904-fruit-into-baskets](https://github.com/Kavita-2027/leetcode/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Kavita-2027/leetcode/tree/master/1004-max-consecutive-ones-iii) |
@@ -60,6 +61,7 @@
 | [0015-3sum](https://github.com/Kavita-2027/leetcode/tree/master/0015-3sum) |
 | [0242-valid-anagram](https://github.com/Kavita-2027/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Kavita-2027/leetcode/tree/master/0268-missing-number) |
+| [0645-set-mismatch](https://github.com/Kavita-2027/leetcode/tree/master/0645-set-mismatch) |
 ## Binary Search
 |  |
 | ------- |
@@ -100,6 +102,7 @@
 | [0268-missing-number](https://github.com/Kavita-2027/leetcode/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/Kavita-2027/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/Kavita-2027/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0645-set-mismatch](https://github.com/Kavita-2027/leetcode/tree/master/0645-set-mismatch) |
 | [0904-fruit-into-baskets](https://github.com/Kavita-2027/leetcode/tree/master/0904-fruit-into-baskets) |
 | [1207-unique-number-of-occurrences](https://github.com/Kavita-2027/leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Kavita-2027/leetcode/tree/master/1796-second-largest-digit-in-a-string) |
@@ -166,6 +169,7 @@
 | [0136-single-number](https://github.com/Kavita-2027/leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Kavita-2027/leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Kavita-2027/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0645-set-mismatch](https://github.com/Kavita-2027/leetcode/tree/master/0645-set-mismatch) |
 ## Pigeonhole Principle
 |  |
 | ------- |
