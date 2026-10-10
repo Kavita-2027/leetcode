@@ -23,6 +23,7 @@
 | [0268-missing-number](https://github.com/Kavita-2027/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Kavita-2027/leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Kavita-2027/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0485-max-consecutive-ones](https://github.com/Kavita-2027/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Kavita-2027/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Kavita-2027/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Kavita-2027/leetcode/tree/master/0724-find-pivot-index) |
