@@ -212,4 +212,8 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Kavita-2027/leetcode/tree/master/0042-trapping-rain-water) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Kavita-2027/leetcode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
