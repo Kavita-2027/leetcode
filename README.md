@@ -33,6 +33,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/Kavita-2027/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Kavita-2027/leetcode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Kavita-2027/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1929-concatenation-of-array](https://github.com/Kavita-2027/leetcode/tree/master/1929-concatenation-of-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -192,6 +193,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Kavita-2027/leetcode/tree/master/0054-spiral-matrix) |
+| [1929-concatenation-of-array](https://github.com/Kavita-2027/leetcode/tree/master/1929-concatenation-of-array) |
 ## Greedy
 |  |
 | ------- |
