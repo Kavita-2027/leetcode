@@ -3,9 +3,7 @@ class Solution {
         if(x<0){
             return false;
         }
-        if(x>=0 && x<10){
-            return true;
-        }
+        
         int temp = x;
         int res = 0;
         while(temp!=0){
@@ -13,6 +11,6 @@ class Solution {
             res = res*10+digit;
             temp = temp/10;
         }
-        return res==x? true:false;
+        return res==x;
     }
 }
