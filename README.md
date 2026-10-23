@@ -60,6 +60,7 @@
 | [0283-move-zeroes](https://github.com/Kavita-2027/leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Kavita-2027/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Kavita-2027/leetcode/tree/master/0344-reverse-string) |
+| [0844-backspace-string-compare](https://github.com/Kavita-2027/leetcode/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/Kavita-2027/leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Sorting
 |  |
@@ -128,6 +129,7 @@
 | [0344-reverse-string](https://github.com/Kavita-2027/leetcode/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Kavita-2027/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0796-rotate-string](https://github.com/Kavita-2027/leetcode/tree/master/0796-rotate-string) |
+| [0844-backspace-string-compare](https://github.com/Kavita-2027/leetcode/tree/master/0844-backspace-string-compare) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Kavita-2027/leetcode/tree/master/1796-second-largest-digit-in-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Kavita-2027/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Math
@@ -209,6 +211,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Kavita-2027/leetcode/tree/master/0054-spiral-matrix) |
+| [0844-backspace-string-compare](https://github.com/Kavita-2027/leetcode/tree/master/0844-backspace-string-compare) |
 | [1929-concatenation-of-array](https://github.com/Kavita-2027/leetcode/tree/master/1929-concatenation-of-array) |
 ## Greedy
 |  |
@@ -218,6 +221,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Kavita-2027/leetcode/tree/master/0042-trapping-rain-water) |
+| [0844-backspace-string-compare](https://github.com/Kavita-2027/leetcode/tree/master/0844-backspace-string-compare) |
 ## Monotonic Stack
 |  |
 | ------- |
